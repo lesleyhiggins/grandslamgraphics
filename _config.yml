@@ -1,8 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Grandslam Graphics
+subtitle: Graphic Design for Youth Sports
+logo: assets/images/GSG.png
 email:
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Graphic design for youth sports teams, athletes, and organizations.
 baseurl: "/grandslamgraphics" 
 url: "https://www.devlesley.com"
 author: Lesley Higgins
